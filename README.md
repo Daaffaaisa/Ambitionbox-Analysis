@@ -78,4 +78,4 @@ text
 1. View the Dashboard
 Open images/dashboard.png directly in this repository, or visit the Portfolio Website for a cleaner visual breakdown.
 2. Reproduce the Data Engineering Pipeline
-Clone this repository and install python dependencies (pip install -r requirements.txt) → Run notebooks/Ambitionbox.ipynb to process the raw .csv and resolve the dynamic column shifting → Import the resulting ambitionbox_cleaned_v4.csv into PostgreSQL using the schema defined in sql/main.sql → Open Visualization/Project6.pbix in Power BI Desktop to interact with the final semantic layer.
+Clone this repository and install python dependencies ```pip install -r requirements.txt``` → Run notebooks/Ambitionbox.ipynb to process the raw .csv and resolve the dynamic column shifting → Import the resulting ambitionbox_cleaned_v4.csv into PostgreSQL using the schema defined in sql/main.sql → Open Visualization/Project6.pbix in Power BI Desktop to interact with the final semantic layer.
