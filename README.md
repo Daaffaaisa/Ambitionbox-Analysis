@@ -27,7 +27,6 @@ The original dataset was scraped from the web and contained severe structural an
 ## 💻 Featured Code: Solving Dynamic Column Shifting
 The Challenge: Web-scraped location text (e.g., "Slovak Republic + 5 more") overflowed into adjacent cells, causing a domino effect where numeric columns (age, employees) shifted unpredictably. Standard Pandas shift() functions failed due to the irregularity. The Solution: I built a custom extraction logic using Pandas string manipulation and Regex to pull data back based on keywords rather than column index positions.
 ```python
-# Example logic: Extracting values based on identifying keywords rather than static columns
 # Cleaning noise text and converting to strict Int64 for SQL ingestion
 df['old'] = df['old'].astype(str).str.replace('years old', '', regex=True).str.strip()
 df['employees'] = df['employees'].astype(str).str.replace(r'\+? employees', '', regex=True).str.strip()
