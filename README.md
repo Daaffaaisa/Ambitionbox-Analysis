@@ -44,7 +44,7 @@ df['company_generation'] = pd.to_numeric(df['old'], errors='coerce').apply(categ
 ## 📊 Key Insights & Dashboard
 The interactive dashboard was built to maintain executive-level numeric precision. I bypassed Power BI's default DAX auto-formatting to prevent rounding (e.g., preventing 9,959 from rounding to "10K").
 
-AmbitionBox Culture Dashboard
+![AmbitionBox Culture Dashboard](Images/dashboard.png)
 
 Key Findings
 1. The "Scale vs Culture" Paradox: Giants Win Giant companies (>6,000 employees) lead employee satisfaction with a 4.02 rating. Meanwhile, small companies (3,097 of them—the largest segment) score the lowest at 3.75. The assumption that massive companies suffer from rigid bureaucracy that drives people away is empirically false in this dataset.
