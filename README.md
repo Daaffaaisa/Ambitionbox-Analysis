@@ -59,18 +59,18 @@ Key Findings
 ## 📂 Repository Structure
 ```
 text
-├── data/
+├── Data/
 │   ├── ambitionbox.csv              # Raw scraped data (messy)
 │   ├── ambitionbox_cleaned_v4.csv   # Final dataset after Python pipeline
 │   └── Insight/                     # Aggregated outputs from SQL
-├── notebooks/
+├── Notebooks/
 │   └── Ambitionbox.ipynb            # Python Pandas data wrangling script
-├── sql/
-│   └── main.sql                     # PostgreSQL schema and aggregations
-├── images/
+├── Sql/
+│   └── Explore.sql                     # PostgreSQL schema and aggregations
+├── Images/
 │   └── dashboard.png                # Power BI dashboard screenshot
 ├── Visualization/
-│   └── Project6.pbix                # Interactive Power BI Desktop file
+│   └── Dashboard.pbix                # Interactive Power BI Desktop file
 └── README.md
 ```
 
