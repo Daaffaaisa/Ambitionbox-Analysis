@@ -45,7 +45,7 @@ The interactive dashboard was built to maintain executive-level numeric precisio
 ![AmbitionBox Culture Dashboard](Images/dashboard.png)
 
 Key Findings
-1. The "Scale vs Culture" Paradox: Giants Win Giant companies (>6,000 employees) lead employee satisfaction with a 4.02 rating. Meanwhile, small companies (3,097 of them—the largest segment) score the lowest at 3.75. The assumption that massive companies suffer from rigid bureaucracy that drives people away is empirically false in this dataset.
+1. The "Scale vs Culture" Paradox: Giants Win Giant companies (>6,000 employees) lead employee satisfaction with a 4.02 rating. Meanwhile, small companies (3,097 of them the largest segment) score the lowest at 3.75. The assumption that massive companies suffer from rigid bureaucracy that drives people away is empirically false in this dataset.
 2. Startups Struggle with Satisfaction When categorized by generation, Legacy companies (>50 years old) lead with a 4.03 rating, while Startups (<10 years old) sit at the bottom with 3.71. The "fun startup culture" myth does not translate to broader employee satisfaction.
 3. Hyper-Expansion Depresses Culture Analyzing location data revealed that Mumbai-based companies pursued hyper-expansion (mapping 34,590+ branches), yet their overall employee satisfaction was noticeably depressed compared to companies based in Chennai, which exhibited controlled, stable growth.
 
