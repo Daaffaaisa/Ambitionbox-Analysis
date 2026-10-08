@@ -3,7 +3,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Engineering](https://img.shields.io/badge/Data_Wrangling-Regex_Pipeline-008080?style=for-the-badge)
-> **View the visual summary on my [Portfolio Website ↗]([MASUKKAN_LINK_WEBSITE_PORTOPOLIO_KAMU_DISINI])**
+> **View the visual summary on my [Portfolio Website ↗](daffakporto.vercel.app)**
 > 
 ## 📌 Business Problem
 Many executives and HR teams make strategic decisions based on untested corporate myths: assuming startup culture is inherently healthier than legacy companies, that huge company size kills employee satisfaction, or that aggressive branch expansion proves success. 
